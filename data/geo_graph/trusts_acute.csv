@@ -1,0 +1,141 @@
+index,trust_name,trust_code,trust_type,latitude,longitude
+44,Manchester University NHS Foundation Trust,R0A,ACUTE - TEACHING,53.462435,-2.227711
+3,South Tyneside and Sunderland NHS Foundation Trust,R0B,ACUTE - LARGE,54.902,-1.41
+274,University Hospitals Dorset NHS Foundation Trust,R0D,ACUTE - TEACHING,50.71956379,-1.970762784
+259,Isle of Wight NHS Trust,R1F,ACUTE - MULTI-SERVICE,50.710843,-1.30133
+187,Barts Health NHS Trust,R1H,ACUTE - TEACHING,51.517167,-0.056122
+168,London North West University Healthcare NHS Trust,R1K,ACUTE - LARGE,51.575407,-0.322037
+147,Essex Partnership University NHS Foundation Trust,R1L,ACUTE - MULTI-SERVICE,51.63503,0.545023
+227,Royal Surrey County Hospital NHS Foundation Trust,RA2,ACUTE - MEDIUM,51.241024,-0.607462
+242,Yeovil District Hospital NHS Foundation Trust,RA4,ACUTE - SMALL,50.944843,-2.634712
+244,University Hospitals Bristol and Weston NHS Foundation Trust,RA7,ACUTE - TEACHING,51.459478,-2.593019
+238,Torbay and South Devon NHS Foundation Trust,RA9,ACUTE - MEDIUM,50.482324,-3.55379
+31,Bradford Teaching Hospitals NHS Foundation Trust,RAE,ACUTE - TEACHING,53.805881,-1.794697
+164,Mid and South Essex NHS Foundation Trust,RAJ,ACUTE - LARGE,51.553834,0.688617
+181,Royal Free London NHS Foundation Trust,RAL,ACUTE - TEACHING,51.553223,-0.165324
+182,Royal National Orthopaedic Hospital NHS Trust,RAN,ACUTE - SPECIALIST,51.632566,-0.310435
+180,North Middlesex University Hospital NHS Trust,RAP,ACUTE - SMALL,51.613094,-0.07375
+169,The Hillingdon Hospitals NHS Foundation Trust,RAS,ACUTE - SMALL,51.526077,-0.461175
+198,Kingston Hospital NHS Foundation Trust,RAX,ACUTE - SMALL,51.415,-0.283
+252,Dorset County Hospital NHS Foundation Trust,RBD,ACUTE - SMALL,50.71294,-2.446936
+109,Walsall Healthcare NHS Trust,RBK,ACUTE - MEDIUM,52.58233,-1.998924
+60,Wirral University Teaching Hospital NHS Foundation Trust,RBL,ACUTE - TEACHING,53.36964,-3.096815
+57,St Helens and Knowsley Teaching Hospitals NHS Trust,RBN,ACUTE - TEACHING,53.420469,-2.784954
+54,Liverpool Heart and Chest Hospital NHS Foundation Trust,RBQ,ACUTE - SPECIALIST,53.411151,-2.897989
+55,Alder Hey Children's NHS Foundation Trust,RBS,ACUTE - SPECIALIST,53.420242,-2.898723
+68,Mid Cheshire Hospitals NHS Foundation Trust,RBT,ACUTE - SMALL,53.117684,-2.475863
+43,The Christie NHS Foundation Trust,RBV,ACUTE - SPECIALIST,53.429748,-2.23005
+237,Northern Devon Healthcare NHS Trust,RBZ,ACUTE - SMALL,51.0922,-4.050431
+149,Bedfordshire Hospitals NHS Foundation Trust,RC9,ACUTE - LARGE,51.894,-0.474
+40,York Teaching Hospital NHS Foundation Trust,RCB,ACUTE - TEACHING,53.968952,-1.084285
+29,Harrogate and District NHS Foundation Trust,RCD,ACUTE - SMALL,53.993807,-1.517573
+27,Airedale NHS Foundation Trust,RCF,ACUTE - SMALL,53.898014,-1.962695
+80,Sheffield Children's NHS Foundation Trust,RCU,ACUTE - SPECIALIST,53.380547,-1.490629
+141,"The Queen Elizabeth Hospital, King's Lynn, NHS Foundation Trust",RCX,ACUTE - SMALL,52.75678,0.446999
+247,Royal United Hospitals Bath NHS Foundation Trust,RD1,ACUTE - MEDIUM,51.391664,-2.391203
+150,Milton Keynes University Hospital NHS Foundation Trust,RD8,ACUTE - SMALL,52.026382,-0.735795
+146,East Suffolk and North Essex NHS Foundation Trust,RDE,ACUTE - MEDIUM,51.910172,0.899183
+218,Frimley Health NHS Foundation Trust,RDU,ACUTE - MEDIUM,51.319669,-0.742029
+232,Royal Cornwall Hospitals NHS Trust,REF,ACUTE - LARGE,50.266685,-5.09145
+70,Aintree University Hospital NHS Foundation Trust,REM,ACUTE - TEACHING,53.409505,-2.964809
+71,The Clatterbridge Cancer Centre NHS Foundation Trust,REN,ACUTE - SPECIALIST,53.332884,-3.024137
+65,Liverpool Women's NHS Foundation Trust,REP,ACUTE - SPECIALIST,53.398461,-2.959982
+58,The Walton Centre NHS Foundation Trust,RET,ACUTE - SPECIALIST,53.466494,-2.930927
+186,"Barking, Havering and Redbridge University Hospitals NHS Trust",RF4,ACUTE - LARGE,51.56862,0.179031
+73,Barnsley Hospital NHS Foundation Trust,RFF,ACUTE - SMALL,53.559,-1.499
+78,The Rotherham NHS Foundation Trust,RFR,ACUTE - MEDIUM,53.413972,-1.34288
+84,Chesterfield Royal Hospital NHS Foundation Trust,RFS,ACUTE - SMALL,53.236222,-1.400081
+137,Royal Papworth Hospital NHS Foundation Trust,RGM,ACUTE - SPECIALIST,52.174,0.136
+136,North West Anglia NHS Foundation Trust,RGN,ACUTE - LARGE,52.583921,-0.279386
+139,James Paget University Hospitals NHS Foundation Trust,RGP,ACUTE - SMALL,52.561671,1.71798
+145,West Suffolk NHS Foundation Trust,RGR,ACUTE - SMALL,52.231661,0.709176
+133,Cambridge University Hospitals NHS Foundation Trust,RGT,ACUTE - TEACHING,52.173741,0.139114
+241,Somerset NHS Foundation Trust,RH5,ACUTE - MULTI-SERVICE,51.012,-3.122
+236,Royal Devon and Exeter NHS Foundation Trust,RH8,ACUTE - LARGE,50.71671,-3.50668
+264,University Hospital Southampton NHS Foundation Trust,RHM,ACUTE - TEACHING,50.933018,-1.435104
+75,Sheffield Teaching Hospitals NHS Foundation Trust,RHQ,ACUTE - TEACHING,53.409749,-1.456042
+260,Portsmouth Hospitals NHS Trust,RHU,ACUTE - TEACHING,50.850229,-1.069932
+270,Royal Berkshire NHS Foundation Trust,RHW,ACUTE - LARGE,51.451022,-0.95933
+192,Guy's and St Thomas' NHS Foundation Trust,RJ1,ACUTE - TEACHING,51.497907,-0.118905
+193,Lewisham and Greenwich NHS Trust,RJ2,ACUTE - LARGE,51.454328,-0.017051
+196,Croydon Health Services NHS Trust,RJ6,ACUTE - MEDIUM,51.389127,-0.108783
+199,St George's University Hospitals NHS Foundation Trust,RJ7,ACUTE - TEACHING,51.426726,-0.175746
+123,South Warwickshire NHS Foundation Trust,RJC,ACUTE - SMALL,52.289965,-1.583203
+87,University Hospitals of North Midlands NHS Trust,RJE,ACUTE - TEACHING,53.003,-2.212
+36,Northern Lincolnshire and Goole NHS Foundation Trust,RJL,ACUTE - LARGE,53.544865,-0.096213
+62,East Cheshire NHS Trust,RJN,ACUTE - SMALL,53.262257,-2.141074
+56,Countess of Chester Hospital NHS Foundation Trust,RJR,ACUTE - SMALL,53.2088,-2.897884
+191,King's College Hospital NHS Foundation Trust,RJZ,ACUTE - TEACHING,51.468077,-0.093916
+104,Sherwood Forest Hospitals NHS Foundation Trust,RK5,ACUTE - MEDIUM,53.13434,-1.232284
+234,University Hospitals Plymouth NHS Trust,RK9,ACUTE - TEACHING,50.416718,-4.113684
+124,University Hospitals Coventry and Warwickshire NHS Trust,RKB,ACUTE - TEACHING,52.421211,-1.438403
+185,Whittington Health NHS Trust,RKE,ACUTE - MEDIUM,51.566311,-0.138637
+89,The Robert Jones and Agnes Hunt Orthopaedic Hospital NHS Foundation Trust,RL1,ACUTE - SPECIALIST,52.884229,-3.032686
+108,The Royal Wolverhampton NHS Trust,RL4,ACUTE - LARGE,52.599722,-2.095555
+125,Wye Valley NHS Trust,RLQ,ACUTE - SMALL,52.056941,-2.705709
+122,George Eliot Hospital NHS Trust,RLT,ACUTE - SMALL,52.51258,-1.478439
+140,Norfolk and Norwich University Hospitals NHS Foundation Trust,RM1,ACUTE - TEACHING,52.618085,1.221067
+45,Salford Royal NHS Foundation Trust,RM3,ACUTE - TEACHING,53.487544,-2.323424
+13,Bolton NHS Foundation Trust,RMC,ACUTE - MEDIUM,53.553956,-2.429894
+47,Tameside and Glossop Integrated Care NHS Foundation Trust,RMP,ACUTE - SMALL,53.49153,-2.071433
+248,Great Western Hospitals NHS Foundation Trust,RN3,ACUTE - MEDIUM,51.538528,-1.7272
+258,Hampshire Hospitals NHS Foundation Trust,RN5,ACUTE - LARGE,51.280613,-1.109875
+207,Dartford and Gravesham NHS Trust,RN7,ACUTE - SMALL,51.434952,0.258645
+110,The Dudley Group NHS Foundation Trust,RNA,ACUTE - MEDIUM,52.502944,-2.118518
+6,Cumbria Partnership NHS Foundation Trust,RNN,ACUTE - SMALL,54.897,-2.958
+130,Kettering General Hospital NHS Foundation Trust,RNQ,ACUTE - SMALL,52.402782,-0.741293
+131,Northampton General Hospital NHS Trust,RNS,ACUTE - MEDIUM,52.236054,-0.883844
+249,Salisbury NHS Foundation Trust,RNZ,ACUTE - SMALL,51.043954,-1.789822
+275,Great Ormond Street Hospital for Children NHS Foundation Trust,RP4,ACUTE - SPECIALIST,51.522062,-0.121907
+74,Doncaster and Bassetlaw Teaching Hospitals NHS Foundation Trust,RP5,ACUTE - TEACHING,53.530741,-1.109257
+179,Moorfields Eye Hospital NHS Foundation Trust,RP6,ACUTE - SPECIALIST,51.527245,-0.089889
+206,Medway NHS Foundation Trust,RPA,ACUTE - MEDIUM,51.379862,0.542062
+212,Queen Victoria Hospital NHS Foundation Trust,RPC,ACUTE - SPECIALIST,51.135114,-0.0029
+172,The Royal Marsden NHS Foundation Trust,RPY,ACUTE - SPECIALIST,51.490561,-0.172565
+116,Birmingham Women's and Children's NHS Foundation Trust,RQ3,ACUTE - SPECIALIST,52.484895,-1.893754
+167,Chelsea and Westminster Hospital NHS Foundation Trust,RQM,ACUTE - TEACHING,51.484259,-0.181644
+161,The Princess Alexandra Hospital NHS Trust,RQW,ACUTE - SMALL,51.771529,0.085457
+189,Homerton University Hospital NHS Foundation Trust,RQX,ACUTE - MEDIUM,51.550632,-0.046099
+1,Gateshead Health NHS Foundation Trust,RR7,ACUTE - SMALL,54.93938,-1.580781
+32,Leeds Teaching Hospitals NHS Trust,RR8,ACUTE - TEACHING,53.806869,-1.520359
+48,"Wrightington, Wigan and Leigh NHS Foundation Trust",RRF,ACUTE - MEDIUM,53.55774,-2.629091
+118,The Royal Orthopaedic Hospital NHS Foundation Trust,RRJ,ACUTE - SPECIALIST,52.421133,-1.960827
+117,University Hospitals Birmingham NHS Foundation Trust,RRK,ACUTE - TEACHING,52.453,-1.938
+184,University College London Hospitals NHS Foundation Trust,RRV,ACUTE - TEACHING,51.525734,-0.137395
+0,The Newcastle Upon Tyne Hospitals NHS Foundation Trust,RTD,ACUTE - TEACHING,55.003,-1.593
+265,Gloucestershire Hospitals NHS Foundation Trust,RTE,ACUTE - LARGE,51.89212,-2.071812
+2,Northumbria Healthcare NHS Foundation Trust,RTF,ACUTE - LARGE,55.025241,-1.46734
+94,University Hospitals of Derby and Burton NHS Foundation Trust,RTG,ACUTE - TEACHING,52.911193,-1.514514
+269,Oxford University Hospitals NHS Foundation Trust,RTH,ACUTE - TEACHING,51.763869,-1.219806
+225,Ashford and St Peter's Hospitals NHS Foundation Trust,RTK,ACUTE - MEDIUM,51.377832,-0.52706
+226,Surrey and Sussex Healthcare NHS Trust,RTP,ACUTE - MEDIUM,51.219194,-0.162009
+9,South Tees Hospitals NHS Foundation Trust,RTR,ACUTE - TEACHING,54.551754,-1.214805
+17,University Hospitals of Morecambe Bay NHS Foundation Trust,RTX,ACUTE - MEDIUM,54.306702,-2.732552
+243,North Bristol NHS Trust,RVJ,ACUTE - LARGE,51.497332,-2.592948
+197,Epsom and St Helier University Hospitals NHS Trust,RVR,ACUTE - LARGE,51.380313,-0.183642
+208,East Kent Hospitals University NHS Foundation Trust,RVV,ACUTE - TEACHING,51.266587,1.087083
+10,North Tees and Hartlepool NHS Foundation Trust,RVW,ACUTE - MEDIUM,54.70238,-1.227837
+16,Southport and Ormskirk Hospital NHS Trust,RVY,ACUTE - SMALL,53.634,-2.979
+51,Pennine Acute Hospitals NHS Trust,RW6,ACUTE - LARGE,53.517881,-2.229486
+38,Hull University Teaching Hospitals NHS Trust,RWA,ACUTE - TEACHING,53.744113,-0.358146
+100,United Lincolnshire Hospitals NHS Trust,RWD,ACUTE - LARGE,53.233574,-0.51965
+105,University Hospitals of Leicester NHS Trust,RWE,ACUTE - TEACHING,52.627,-1.136
+205,Maidstone and Tunbridge Wells NHS Trust,RWF,ACUTE - LARGE,51.273661,0.483974
+162,West Hertfordshire Hospitals NHS Trust,RWG,ACUTE - MEDIUM,51.648921,-0.404187
+160,East and North Hertfordshire NHS Trust,RWH,ACUTE - LARGE,51.924611,-0.212726
+52,Stockport NHS Foundation Trust,RWJ,ACUTE - MEDIUM,53.383786,-2.13202
+127,Worcestershire Acute Hospitals NHS Trust,RWP,ACUTE - LARGE,52.191201,-2.181144
+66,Warrington and Halton Hospitals NHS Foundation Trust,RWW,ACUTE - TEACHING,53.393981,-2.610733
+28,Calderdale and Huddersfield NHS Foundation Trust,RWY,ACUTE - LARGE,53.655482,-1.816338
+103,Nottingham University Hospitals NHS Trust,RX1,ACUTE - TEACHING,52.943799,-1.185957
+216,East Sussex Healthcare NHS Trust,RXC,ACUTE - LARGE,50.887659,0.562016
+30,Mid Yorkshire Hospitals NHS Trust,RXF,ACUTE - LARGE,53.692418,-1.488555
+111,Sandwell and West Birmingham Hospitals NHS Trust,RXK,ACUTE - LARGE,52.488627,-1.932507
+15,Blackpool Teaching Hospitals NHS Foundation Trust,RXL,ACUTE - TEACHING,53.820668,-3.016264
+14,Lancashire Teaching Hospitals NHS Foundation Trust,RXN,ACUTE - TEACHING,53.792,-2.707
+8,County Durham and Darlington NHS Foundation Trust,RXP,ACUTE - MULTI-SERVICE,54.530374,-1.563733
+268,Buckinghamshire Healthcare NHS Trust,RXQ,ACUTE - MULTI-SERVICE,51.662946,-0.621388
+19,East Lancashire Hospitals NHS Trust,RXR,ACUTE - LARGE,53.73556,-2.462716
+88,Shrewsbury and Telford Hospital NHS Trust,RXW,ACUTE - LARGE,52.709356,-2.793752
+171,Imperial College Healthcare NHS Trust,RYJ,ACUTE - TEACHING,51.51754,-0.174411
+215,University Hospitals Sussex NHS Foundation Trust,RYR,ACUTE - LARGE,50.816756,-0.363429

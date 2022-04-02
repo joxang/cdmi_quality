@@ -1,0 +1,147 @@
+,2016_section,2016_all,2016_key,factor,loading
+0,medicines,Healthcare professionals use digital systems to get a complete view of patients existing medications/prescriptions,x85,0,0.4492424883928497
+1,medicines,What proportion of inpatient medications are prescribed digitally in your organisation?,x86,0,0.924100487091916
+2,medicines,What proportion of discharge medications are prescribed digitally in your organisation?,x87,0,0.3887432139233683
+3,medicines,What proportion of outpatient medications are prescribed digitally in your organisation?,x88,0,0.3717671220175701
+4,medicines,"Digital prescribing is routinely performed across all specialties, departments and sites.",x89,0,0.875569717511543
+5,medicines,Complex medicines and infusions are routinely prescribed digitally,x90,0,0.6284941280926579
+6,medicines,"When prescribing, healthcare professionals have access to department, specialty or organisation level medication order sets.",x91,0,0.8276391271813104
+7,medicines,Reference sources are seamlessly available during the digital prescribing process,z3,0,0.7016839925227246
+8,medicines,"When prescribing, healthcare professionals are alerted of drug: drug interactions, allergy intolerance, duplication of therapeutic class of drug, out of range doses.",x92,0,0.8783507090156388
+9,medicines,"Calculation of medication doses, based on height, weight or body surface area, is enabled digitally.",x93,0,0.6432274672542897
+10,medicines,Completion of a patient risk assessment form offers best practice guidance and prompts prescription of appropriate medications,x94,0,0.39540951789987755
+11,medicines,"Medicines and infusions are automatically scheduled for administration and the outcome is digitally recorded, including reasons for non-administration.",x95,0,0.9042162984512542
+12,medicines,"Your organisation digitally monitors prescribed medications administered early, late or not administered at all, and reviews the reasons recorded.",x96,0,0.8584627627362986
+13,medicines,Monitoring of patients on high risk medications is enabled digitally; healthcare professionals are prompted to monitor relevant laboratory tests (such as INR or drug concentration) results are tracked and there is documentation of actions taken.,x98,0,0.7275667892565721
+14,medicines,"Your organisation digitally monitors all adverse events resulting from medicines administration and has an audit trail to show actions taken and follow up, including yellow card reporting to MHRA.",x99,0,0.4833936839068938
+15,medicines,"Antibiotics are routinely prescribed digitally based on local or national formulary guidelines for the clinical indication documented, with prompts to consider IV to oral switching after a pre-defined course length.",x100,0,0.8837419111894007
+16,strategic,Your organisation has a clearly defined digital strategy which is aligned to clinical and corporate objectives.,x1,1,0.3210493561319455
+17,strategic,"Implementation of the digital strategy is fully aligned to, and supported by, a service transformation programme(s).",x2,1,0.6220735028888377
+18,strategic,There are effective processes in place to prioritise investment in digital technology and support ideas through to implementation,x3,1,0.7459468868530033
+19,strategic,Digital technology is being used to support improved collaboration and coordination across different parts of your organisation,x4,1,0.5010923458773405
+20,leadership,"You have strong clinical leadership through a nominated Chief Clinical Information Officer, Chief Nursing Information Officer or equivalent",x8,1,0.3180880246986137
+21,resourcing,"Your organisation has the buying, contracting, and supplier management capability it needs to manage technology suppliers",x14,1,0.3634050244174189
+22,resourcing,Your organisation undertakes quantitative and qualitative benefits identification in conjunction with commercial suppliers,x15,1,0.5486690675704992
+23,resourcing,Your organisation ensures adequate resources are available for technology implementation and change management,x16,1,0.7948506304324293
+24,resourcing,There are financial plans in place for investment in digital technology you require over the next 2-3 years,x18,1,0.6134265481967984
+25,governance,"There is a Board-led digital programme(s), supported by effective operational IT delivery.",x19,1,0.3873700910502255
+26,governance,"Project and programme boards follow standard project management methodologies, ensuring effective allocation of roles and responsibility.",x20,1,0.7390251180217784
+27,governance,Digital projects are underpinned by valid business cases and fully-engaged business owners.,x21,1,0.9066982037506646
+28,governance,Your organisation does routinely evaluate the benefits of digital projects using a consistent approach,x22,1,0.8429437136077742
+29,information,All information governance requirements are articulated in third party contracts and monitored on an ongoing basis.,x30,1,0.33592907771560926
+30,records,HCPs can access digital records (or relevant components of them) from wherever they need to as part of their regular day-to-day routine.,x37,2,1.1707946395519262
+31,records,HCPs can update digital records (or relevant components of them) from wherever they need to as part of their regular day-to-day routine.,x38,2,1.0245353224459925
+32,records,"When using digital records, HCPs can find what they need quickly and easily; they rarely have to navigate multiple systems/user interfaces and/or sift large volumes of irrelevant data",x39,2,0.39065500146707627
+33,transfers,"What proportion of referrals received for outpatient or non-urgent assessment are automatically integrated into digital workflows to enable viewing, triaging and scheduling of appointments and investigations?",x54,2,0.3650837873498558
+34,transfers,What proportion of patient information relating to handovers of care within your organisation is shared by Healthcare professionals digitally?,x56,2,0.32988792628827174
+35,orders,What proportion of laboratory test results are available to healthcare professionals digitally?,x78,2,0.33724039617064644
+36,orders,Digital orders are created in a structured format and held as part of the patients electronic health record.,x71,3,0.9803634429288715
+37,orders,Digital orders are pre-populated with information already collected at the point of care; healthcare professionals do not have re-enter the same information.,x72,3,0.6595641455825356
+38,orders,"When making diagnostic test requests, healthcare professionals have access to department, specialty or organisation level request/order sets.",x73,3,0.9329602783597335
+39,orders,Healthcare professionals are alerted of duplicate or conflicting test requests,x74,3,0.8560316696087611
+40,orders,"Requests received by diagnostic services are automatically integrated into digital workflows to enable booking, triaging or scheduling.",x76,3,0.5226607393336942
+41,orders,Digital results are held in a structured format to enable clinical decision support and data extraction.,x82,3,0.35398589242863276
+42,records,What proportion of each of the following types of records is available digitally in your organisation: Clinical Observations,x32,4,0.8235694002279502
+43,records,In what format are each of the following types of records held in your organisation: Clinical Notes,x34,4,0.3575735551529233
+44,records,In what format are each of the following types of records held in your organisation: Clinical Observations,x35,4,0.9842472725062703
+45,medicines,What proportion of chemotherapy is prescribed digitally in your organisation?,x103,4,0.3147153259038521
+46,decision,"Digital systems are used to alert healthcare professionals of patients whose clinical observations, or early warning scores, are deteriorating and need review",x107,4,0.900530037227915
+47,orders,What proportion of patient consultations that healthcare professionals request from other clinical colleagues or specialties are ordered digitally?,x67,5,0.43301628216115734
+48,orders,What proportion of laboratory tests are requested through a digital order system?,x68,5,0.9265272098408754
+49,orders,What proportion of radiology tests are requested through a digital order system?,x69,5,0.8646374603604075
+50,orders,What proportion of requests for any other diagnostic tests are made through a digital order system?,x70,5,0.553592085099548
+51,orders,"Healthcare professionals can track the status of requests at all times, including receipt, authorisation, scheduling and completion.",x77,5,0.7029774600854906
+52,orders,Healthcare professionals are automatically alerted of all results that require acknowledgement and an audit Â trail exists to demonstrate the acknowledgement process and actions taken.,x83,5,0.3150995461090004
+53,decision,Healthcare professionals receive digital alerts to the existence of patient preferences,x105,6,0.9542207295653745
+54,decision,Healthcare professionals receive digital alerts to specific patient risks,x106,6,0.7232602573450889
+55,decision,Digital systems alert healthcare professionals outside your organisation to relevant operational information about their patients,x108,6,0.6822374039750748
+56,decision,Healthcare professionals are directed to relevant and evidence-based reference material as part of digital clinical workflows and care pathways,x110,6,0.4559746084033309
+57,decision,"Digital systems provide automatic prompts for the next action required by multi-step care plans, pathways & protocols",x111,6,0.3589159873026216
+58,records,Healthcare professionals in your organisation have digital access to the information they need from other local healthcare providers,x43,7,0.5292235545334398
+59,records,Other local healthcare providers have digital access to the information they need from your organisation,x45,7,0.33407859534663625
+60,records,Healthcare professionals have access to a consolidated view of their patients local health and care records,x47,7,0.844873771646784
+61,records,Healthcare professionals can contribute to a consolidated view of their patients local health and care records,x48,7,0.967196576904024
+62,records,Patients are able to view and download information from their digital care record,x49,7,0.5399193724071593
+63,information,"There is active identification, monitoring and review of cyber security risks.",z1,8,0.35997337784831623
+64,information,The Board has a full and accurate picture that the organisations key information is being properly managed and is safe from cyber threats.,x26,8,0.6078596006099685
+65,information,You are confident the entire workforce understands and follows your organisations information governance policies & processes.,x27,8,0.35582888031188037
+66,information,"You receive assurance on a regular basis that your suppliers and digital assets are secure, including penetration testing.",x28,8,0.7655268058527088
+67,information,"There are robust due diligence mechanisms in place to ensure all 3rd parties comply with the law and central guidance and provide sufficient guarantees that personal data is handled safely and protected from unauthorised access, accidental loss, damage and destruction.",x29,8,0.9409879018841466
+68,information,All information governance requirements are articulated in third party contracts and monitored on an ongoing basis.,x30,8,0.7462065723835948
+69,infrastructure,Software (including operating systems) used on NHS-owned IT infrastructure is approved and recorded on a software asset & licence register that confirms it is appropriately licensed for such use,x152,9,0.4009017630228605
+70,infrastructure,"Business-critical digital services are supported by documented disaster recovery processes, with clear roles & responsibilities assigned",x155,9,0.8192830965974844
+71,infrastructure,Disaster recovery processes have been tested and audited,x156,9,0.8655323299571348
+72,infrastructure,Business-critical digital services are supported by IT infrastructure with multi-site redundancy; normal operations are maintained in the event of an outage at any particular location,x157,9,0.7616197234815468
+73,leadership,"You have strong clinical leadership through a nominated Chief Clinical Information Officer, Chief Nursing Information Officer or equivalent",x8,10,0.32026598670001205
+74,records,What proportion of information shared with health and care providers outside your organisation is provided in a structured or semi-structured digital format?,x50,10,0.9690776922199866
+75,medicines,What proportion of discharge medications are prescribed digitally in your organisation?,x87,10,0.6144188355386523
+76,infrastructure,Healthcare professionals are equipped with mobile devices to access clinical applications and information at the point of care,x149,10,0.31424080752746697
+77,infrastructure,Digital systems meet users expectations regarding the time it takes to log-in to clinical applications and update/retrieve information,x151,10,0.4607412159852124
+78,records,What proportion of each of the following types of records is available digitally in your organisation: Clinical Notes,x31,11,0.8462176717082821
+79,records,What proportion of each of the following types of records is available digitally in your organisation: Clinical Observations,x32,11,0.6074088010147731
+80,records,What proportion of each of the following types of records is available digitally in your organisation: Care Plans,x33,11,0.9849724846366921
+81,records,HCPs can access digital records (or relevant components of them) from wherever they need to as part of their regular day-to-day routine.,x37,11,0.3180734369239985
+82,records,HCPs rely on digital records for the information they need at the point of care; paper records are used by exception.,x42,11,0.46239261780241275
+83,infrastructure,Healthcare professionals have single sign-on access & authentication to clinical applications; they do not have to remember and use multiple usernames & passwords,x150,12,0.48442399460611707
+84,infrastructure,Digital systems meet users expectations regarding the time it takes to log-in to clinical applications and update/retrieve information,x151,12,0.31029052633407445
+85,infrastructure,Digital services are supported by an IT support Service Desk that prioritises incidents using a consistent approach agreed with nominated service users/owners,x153,12,1.0013327409098414
+86,infrastructure,The IT support Service Desk follows an ITIL-aligned (or equivalent) Incident Management process that lets users track issues through to resolution,x154,12,0.887537338813668
+87,resourcing,Your organisation has a clinical safety officer and routinely undertakes assessment of clinical safety and risk for all digital projects,x17,13,0.3624112582480412
+88,decision,"Your organisation monitors the overruling of alerts and the reasons recorded, and works with healthcare professionals to refine decision support rules where appropriate",x109,13,0.8062631376436084
+89,decision,"Digital systems provide automatic prompts for the next action required by multi-step care plans, pathways & protocols",x111,13,0.5048567574516512
+90,decision,Healthcare professionals are prompted to complete or remind patients about overdue care actions and/or missing information,x112,13,0.6295063484005476
+91,standards,dm+d (Dictionary of Medicines and Devices) is used to describe all medicines and devices,x143,13,0.3362427143043317
+92,transfers,New care summaries are created in a structured digital format,x58,14,0.8983957234014384
+93,transfers,Care summaries are created in a consistent format across the organisation,x59,14,1.0570298650808074
+94,transfers,The information held inpatients records is used topre-populate caresummaries to avoid re-keying,x60,14,0.4997333058742121
+95,decision,"Systems support patient discharge, including production of section 2 and 5 notifications and multidisciplinary discharge planning",x114,15,0.33656155019857703
+96,standards,dm+d (Dictionary of Medicines and Devices) is used to describe all medicines and devices,x143,15,0.8082600882434255
+97,standards,The Academy of Medical Royal Colleges Standards for clinical structure and content of patients records are used to create digital patient records and transfer of care summaries.,x144,15,0.8209217759924786
+98,standards,Patients end-of-life preferences are recorded in accordance with the Palliative Care Co-ordination: Core Content (SCCI1580) national standard,x145,15,0.45087777074597457
+99,information,"You receive assurance on a regular basis that your suppliers and digital assets are secure, including penetration testing.",x28,16,0.486816020242509
+100,records,HCPs rely on digital records for the information they need at the point of care; paper records are used by exception.,x42,16,0.34802511239797224
+101,medicines,What proportion of outpatient medications are prescribed digitally in your organisation?,x88,16,0.7592722322457879
+102,medicines,What proportion of chemotherapy is prescribed digitally in your organisation?,x103,16,0.3327449262506999
+103,medicines,What proportion of patients and medicines are positively identified prior to administration through automatic identification and data capture using barcode technology?,x97,16,0.5180816568511218
+104,standards,For what proportion of patients is a verified NHS number included on all information shared with any other care provider or organisation directly involved in a patients care and treatment?,x141,17,0.9281612436995873
+105,infrastructure,Digital services are supported by an IT support Service Desk that prioritises incidents using a consistent approach agreed with nominated service users/owners,x153,17,0.35491879618033434
+106,transfers,What proportion of patient information relating to handovers of care within your organisation is shared by Healthcare professionals digitally?,x56,18,0.46097916391267313
+107,remote,"Remote/virtual clinical consultations and clinical advice are available to patients using tools such as online meetings, videoconferencing, skype, email or instant messaging",x117,18,0.8858864717811827
+108,remote,"Healthcare professionals are able to contribute remotely to discussions about patient care with colleagues outside your organisation using tools such as online meeting, videoconferencing or skype",x118,18,0.3231128235917018
+109,orders,"Healthcare professionals within your organisation have digital access to all relevant diagnostic test results and images for patients under their care, including those undertaken by other providers.",x81,19,0.9370349120461475
+110,orders,"Healthcare professionals have digital access to all relevant diagnostic test results and images for patients under their care, including those undertaken by other local providers.",z2,19,0.8517232650393743
+111,orders,What proportion of patients are positively identified through using barcode technology at the point of sample collection and specimen labelling and prior to all diagnostic tests being performed?,x75,20,0.9034295592533783
+112,standards,"GS1 is used to identify all patients, products and places, and for radio-frequency identification (RFID) tagging.",x146,20,0.4524259523316012
+113,records,Healthcare professionals in your organisation have digital access to the information they need from local social care providers.,x44,21,0.5399618375723731
+114,records,Local social care providers have digital access to information from your organisation,x46,21,0.996174111685984
+115,remote,"Healthcare professionals are able to contribute remotely to discussions about patient care with colleagues outside your organisation using tools such as online meeting, videoconferencing or skype",x118,22,1.0151306941033005
+116,infrastructure,Software (including operating systems) used on NHS-owned IT infrastructure is approved and recorded on a software asset & licence register that confirms it is appropriately licensed for such use,x152,22,0.3220061338753018
+117,information,You are confident the entire workforce understands and follows your organisations information governance policies & processes.,x27,23,1.0329894242623476
+118,information,"There are robust due diligence mechanisms in place to ensure all 3rd parties comply with the law and central guidance and provide sufficient guarantees that personal data is handled safely and protected from unauthorised access, accidental loss, damage and destruction.",x29,23,0.31767497170776626
+119,information,All information governance requirements are articulated in third party contracts and monitored on an ongoing basis.,x30,23,0.36919826867389693
+120,leadership,Your Board owns the organisations digital strategy and expects to receive regular updates about progress.,x6,24,0.46090260937603483
+121,leadership,The team leading the organisations digital transformation includes a board-level sponsor,x7,24,0.49996218931895486
+122,leadership,"You have strong clinical leadership through a nominated Chief Clinical Information Officer, Chief Nursing Information Officer or equivalent",x8,24,0.6367782077028057
+123,leadership,Your CCIO or equivalent has adequate protected time as part of his/her job plan to undertake the requirements of the role within your organisation.,x9,24,0.8042035513396808
+124,governance,"There is a Board-led digital programme(s), supported by effective operational IT delivery.",x19,24,0.42508658932252447
+125,records,Other local healthcare providers have digital access to the information they need from your organisation,x45,25,0.3851830791590463
+126,transfers,"At patient discharge, what proportion of care summaries are shared digitally with GPs?",x62,25,0.8639306994178709
+127,transfers,What proportion of care summaries are generated in real time and shared digitally with other relevant care providers as soon as completed?,x61,25,0.4277826587029229
+128,orders,Healthcare professionals can digitally access diagnostic test results and images quickly and easily at the point of care,x84,25,0.32906058748897793
+129,asset,Healthcare professionals use digital systems to manage inpatient beds throughout the organisation,x123,25,0.326694211723491
+130,records,In what format are each of the following types of records held in your organisation: Clinical Notes,x34,26,0.43307330362398605
+131,records,In what format are each of the following types of records held in your organisation: Care Plans,x36,26,0.9490843975191244
+132,information,"There is active identification, monitoring and review of cyber security risks.",z1,27,0.9236361796830285
+133,information,The Board has a full and accurate picture that the organisations key information is being properly managed and is safe from cyber threats.,x26,27,0.3847597350267624
+134,asset,Healthcare professionals use digital systems to manage inpatient beds throughout the organisation,x123,28,0.952009974738353
+135,asset,Patient flow is tracked digitally in real time across all departments and sites to identify bottlenecks and delays,x124,28,0.7390855545561802
+136,infrastructure,Healthcare professionals have wi-fi access to clinical applications across your estate,x147,29,0.6209638334095597
+137,infrastructure,Public wi-fi is available in public areas across your estate,x148,29,0.7925401579514265
+138,infrastructure,Healthcare professionals are equipped with mobile devices to access clinical applications and information at the point of care,x149,29,0.4234429668196317
+139,governance,Your organisation does routinely adopt principles outlined in best practice guidelines relating to digital services,x23,30,0.35228037929178596
+140,asset,"The location of key clinical assets, e.g. medical equipment, devices & prostheses, is digitally tracked throughout your organisation (all sites, buildings, departments, wards etc)",x125,30,0.8070353146486672
+141,asset,Staff rostering is managed using digital systems throughout the organisation,x126,31,0.7632944858917916
+142,orders,What proportion of laboratory test results are available to healthcare professionals digitally?,x78,32,0.37905160227683415
+143,orders,What proportion of radiology test results are available to healthcare professionals digitally?,x79,32,0.8149201358250102
+144,orders,What proportion of results from any other diagnostic tests are available to healthcare professionals digitally?,x80,32,0.30991132518160297
+145,standards,SNOMED CT is used to support directmanagement of care,x142,33,0.8429310816750628

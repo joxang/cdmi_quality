@@ -1,0 +1,152 @@
+organisation_name,organisation_id,What proportion of patient consultations do health and care professionals request digitally from colleagues or other specialties?,What proportion of laboratory tests are requested through a digital order system?,What proportion of radiology tests are requested through a digital order system?,What proportion of requests for any other diagnostic tests are made through a digital order system?,Digital orders are created in a structured format and held as part of the patients' and service users' digital care record.,Digital orders are pre-populated with information held in patient and service users' digital record.,"When making diagnostic test requests, health and care professionals have access to department, speciality or organisation level request/order sets.",Health and care professionals are alerted of duplicate test requests.,What proportion of inpatients are positively identified at the point of sample collection and specimen labelling prior to all diagnostic tests being performed?,"Requests received by diagnostic services are automatically integrated into digital workflows to enable booking, triaging or scheduling.",Health and care professionals can track the status of requests to diagnostic services through to completion.,What proportion of laboratory test results are available to health and care professionals digitally?,What proportion of radiology test results are available to health and care professionals digitally?,What proportion of results from any other diagnostic tests are available to health and care professionals digitally?,Health and care professionals have digital access to all relevant diagnostic test results and images for patients and service users under their care.,Digital results are held in a structured format to enable clinical decision support and data extraction.,Health and care professionals are automatically alerted of all results that require acknowledgement by them.,Health and care professionals can digitally access diagnostic test results and images quickly and easily at the point of care.
+Aintree University Hospital NHS Foundation Trust,REM,80,100,100,60,100,75,100,25,60,100,100,100,100,100,75,75,25,100
+Airedale NHS Foundation Trust,RCF,40,100,20,20,50,100,75,0,0,50,75,100,100,100,100,75,50,100
+Alder Hey Childrens NHS Foundation Trust,RBS,80,100,100,100,100,100,75,100,0,100,100,100,100,100,100,100,100,100
+Ashford and St Peters Hospitals NHS Foundation Trust,RTK,80,80,80,80,50,50,50,0,0,25,25,100,100,100,75,25,0,100
+"Barking, Havering and Redbridge University Hospitals NHS Trust",RF4,20,20,0,0,100,100,75,50,100,0,50,100,100,60,75,0,0,75
+Barnsley Hospital NHS Foundation Trust,RFF,,100,100,,75,25,75,25,,50,75,100,100,100,50,75,50,75
+Barts Health NHS Trust,R1H,40,100,100,40,100,75,75,75,0,75,75,100,100,80,100,75,50,100
+Basildon and Thurrock University Hospitals NHS Foundation Trust,RDD,20,100,100,100,100,100,100,100,100,75,75,100,100,100,100,100,100,100
+Bedford Hospital NHS Trust,RC1,20,80,20,0,50,75,75,75,40,25,75,100,100,20,25,75,25,75
+Birmingham Women's and Children's NHS Foundation Trust,RLU,0,80,20,20,100,100,100,50,100,25,25,100,100,80,75,100,25,100
+Blackpool Teaching Hospitals NHS Foundation Trust,RXL,80,100,80,20,100,100,100,50,20,75,100,100,100,100,100,100,50,100
+Bolton NHS Foundation Trust,RMC,0,40,0,,25,75,75,75,0,0,100,100,100,0,100,25,25,75
+Bradford Teaching Hospitals NHS Foundation Trust,RAE,0,100,100,100,100,100,100,100,100,75,75,100,100,60,100,100,50,100
+Brighton and Sussex University Hospitals NHS Trust,RXH,20,0,0,0,,,,,100,,25,100,100,100,75,0,25,75
+Buckinghamshire Healthcare NHS Trust,RXQ,20,60,100,20,0,0,50,75,0,50,25,100,100,80,50,100,25,75
+Burton Hospitals NHS Foundation Trust,RJF,80,100,100,60,100,100,100,100,80,75,75,100,100,80,100,100,100,100
+Calderdale and Huddersfield NHS Foundation Trust,RWY,40,100,100,100,100,50,75,75,60,75,75,100,100,100,75,100,75,75
+Cambridge University Hospitals NHS Foundation Trust,RGT,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100
+Central Manchester University Hospitals NHS Foundation Trust,RW3,80,100,100,100,100,100,100,100,60,75,100,100,100,100,75,50,50,100
+Chelsea and Westminster Hospital NHS Foundation Trust,RQM,80,100,100,100,100,75,75,75,80,75,75,100,100,100,75,100,75,75
+Chesterfield Royal Hospital NHS Foundation Trust,RFS,20,100,100,20,25,75,100,75,20,75,25,100,100,60,75,100,75,100
+Christie NHS Foundation Trust,RBV,100,20,100,60,100,100,100,100,100,75,75,100,100,60,75,100,100,75
+City Hospitals Sunderland NHS Foundation Trust,RLN,40,100,100,100,100,100,100,100,0,100,100,100,100,100,75,100,100,100
+Clatterbridge Cancer Centre NHS Foundation Trust,REN,60,100,100,,100,75,75,100,100,50,75,100,100,60,75,75,75,75
+Colchester Hospital University NHS Foundation Trust,RDE,20,100,100,0,100,100,100,100,100,100,100,100,100,100,100,100,100,100
+Countess Of Chester Hospital NHS Foundation Trust,RJR,80,100,100,100,100,100,100,75,20,75,100,100,100,80,100,100,25,100
+County Durham and Darlington NHS Foundation Trust,RXP,60,60,100,40,50,25,75,75,0,75,75,100,100,100,100,100,75,100
+Croydon Health Services NHS Trust,RJ6,80,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100
+Dartford and Gravesham NHS Trust,RN7,80,100,100,80,100,75,100,100,100,100,100,100,100,60,100,75,25,100
+Derby Teaching Hospitals NHS Foundation Trust,RTG,80,100,100,40,100,100,100,75,20,100,100,100,100,100,75,100,75,100
+Doncaster and Bassetlaw Teaching Hospitals NHS Foundation Trust,RP5,80,80,80,0,75,100,100,75,100,50,75,100,100,60,75,100,50,75
+Dorset County Hospital NHS Foundation Trust,RBD,20,100,100,40,50,50,75,50,100,50,75,100,100,20,50,50,50,50
+Dudley Group NHS Foundation Trust,RNA,40,20,60,20,100,100,50,75,0,0,25,100,100,80,75,75,25,100
+East and North Hertfordshire NHS Trust,RWH,20,80,100,20,0,25,25,50,0,75,75,100,100,0,0,25,0,75
+East Cheshire NHS Trust,RJN,20,0,80,20,,,,,20,,25,60,60,20,50,25,0,25
+East Kent Hospitals University NHS Foundation Trust,RVV,100,100,100,100,100,100,100,50,100,75,75,100,100,100,100,100,100,100
+East Lancashire Hospitals NHS Trust,RXR,80,100,100,80,100,50,100,100,20,100,100,100,100,80,100,100,75,100
+East Sussex Healthcare NHS Trust,RXC,40,100,20,20,75,25,25,0,0,25,0,100,100,80,75,50,0,100
+Epsom and St Helier University Hospitals NHS Trust,RVR,40,80,80,80,100,25,100,75,0,25,75,100,100,100,75,100,0,100
+Frimley Health NHS Foundation Trust,RDU,40,100,100,60,100,75,100,75,100,25,100,100,100,80,75,100,100,100
+Gateshead Health NHS Foundation Trust,RR7,,,,,75,75,75,75,80,100,50,,,,75,75,75,75
+George Eliot Hospital NHS Trust,RLT,20,0,0,20,,,,,0,,75,100,100,80,100,100,50,100
+Gloucestershire Hospitals NHS Foundation Trust,RTE,20,40,100,20,75,25,75,50,0,75,75,100,100,,25,25,75,100
+Great Ormond Street Hospital For Children NHS Foundation Trust,RP4,0,0,0,0,,,,,20,,0,100,100,60,0,0,0,75
+Great Western Hospitals NHS Foundation Trust,RN3,0,,100,20,75,75,25,25,80,50,25,100,100,60,25,75,0,75
+Guys and St Thomas NHS Foundation Trust,RJ1,60,100,100,100,100,50,100,75,0,50,25,100,100,100,75,100,0,75
+Hampshire Hospitals NHS Foundation Trust,RN5,40,80,80,60,100,100,100,75,20,75,75,100,100,100,75,75,0,75
+Harrogate and District NHS Foundation Trust,RCD,20,100,100,0,75,50,75,75,20,75,25,100,100,100,75,100,0,75
+Heart Of England NHS Foundation Trust,RR1,20,60,100,80,100,100,50,50,80,50,50,100,100,40,75,75,100,100
+Hillingdon Hospitals NHS Foundation Trust,RAS,0,100,80,,100,100,100,25,80,25,100,100,100,60,75,75,25,50
+Homerton University Hospital NHS Foundation Trust,RQX,60,100,100,80,100,100,100,100,20,100,100,100,100,80,75,100,75,75
+Hull and East Yorkshire Hospitals NHS Trust,RWA,60,100,100,40,100,100,100,100,0,100,100,100,100,40,75,100,75,75
+Imperial College Healthcare NHS Trust,RYJ,20,100,100,20,100,100,100,100,0,100,75,100,100,80,75,75,75,75
+Ipswich Hospital NHS Trust,RGQ,60,80,80,60,100,100,100,100,100,75,75,100,100,60,50,75,25,75
+Isle Of Wight NHS Trust,R1F,,,0,0,50,50,50,0,0,75,50,100,100,,75,75,75,100
+James Paget University Hospitals NHS Foundation Trust,RGP,60,20,20,20,75,50,50,25,60,0,25,100,100,100,50,50,25,25
+Kettering General Hospital NHS Foundation Trust,RNQ,20,80,80,0,50,100,100,75,100,50,50,100,100,20,75,25,0,75
+Kings College Hospital NHS Foundation Trust,RJZ,80,60,100,100,100,100,100,50,100,75,75,100,100,100,50,75,50,100
+Kingston Hospital NHS Foundation Trust,RAX,80,100,100,20,100,100,75,100,0,75,75,100,100,20,75,100,75,100
+Lancashire Teaching Hospitals NHS Foundation Trust,RXN,20,100,100,20,100,75,100,100,80,75,100,100,100,80,75,100,100,75
+Leeds Teaching Hospitals NHS Trust,RR8,40,100,60,40,100,50,75,50,0,25,75,100,100,80,100,100,25,100
+Lewisham and Greenwich NHS Trust,RJ2,,100,100,80,100,75,100,100,80,75,75,100,100,80,75,75,100,75
+Liverpool Heart and Chest Hospital NHS Foundation Trust,RBQ,100,100,100,100,100,100,100,100,40,100,75,100,100,100,100,100,75,100
+Liverpool Womens NHS Foundation Trust,REP,20,20,100,100,100,100,100,50,0,100,100,100,100,100,50,50,25,100
+London North West Healthcare NHS Trust,R1K,,,,,,,,,,,,,,,,,,
+Luton and Dunstable University Hospital NHS Foundation Trust,RC9,100,100,100,100,100,100,100,100,60,100,75,100,100,100,75,100,75,75
+Maidstone and Tunbridge Wells NHS Trust,RWF,60,80,60,20,100,100,100,75,60,75,75,100,100,100,75,75,75,50
+Medway NHS Foundation Trust,RPA,80,80,80,80,100,100,100,100,100,100,100,100,100,100,100,100,100,100
+Mid Cheshire Hospitals NHS Foundation Trust,RBT,40,80,40,60,75,100,75,50,20,75,100,100,100,60,75,75,25,75
+Mid Essex Hospital Services NHS Trust,RQ8,60,100,100,80,100,100,50,100,100,100,100,100,100,80,100,100,75,100
+Mid Yorkshire Hospitals NHS Trust,RXF,80,100,100,80,75,75,100,25,0,75,75,100,100,60,50,75,25,75
+Milton Keynes University Hospital NHS Foundation Trust,RD8,40,100,100,20,75,50,25,75,0,50,75,100,100,60,75,25,0,75
+Moorfields Eye Hospital NHS Foundation Trust,RP6,40,40,40,0,100,100,100,0,0,0,0,80,40,20,75,100,0,50
+Newcastle Upon Tyne Hospitals NHS Foundation Trust,RTD,20,80,80,20,100,100,100,100,0,75,100,100,100,80,75,100,100,100
+Norfolk and Norwich University Hospitals NHS Foundation Trust,RM1,80,100,100,80,0,50,100,50,80,50,50,100,100,80,75,100,0,0
+North Bristol NHS Trust,RVJ,20,100,100,100,75,25,100,75,100,75,100,100,100,100,75,75,75,100
+North Cumbria University Hospitals NHS Trust,RNL,20,80,60,0,100,100,50,0,0,0,25,,,,25,25,0,75
+North Middlesex University Hospital NHS Trust,RAP,20,80,100,0,75,75,75,25,100,75,25,100,100,80,25,75,25,75
+North Tees and Hartlepool NHS Foundation Trust,RVW,20,100,100,100,100,100,100,0,100,100,100,100,100,100,100,100,100,100
+North West Anglia NHS Foundation Trust,RGN,60,80,80,80,75,50,75,50,40,25,75,100,100,100,50,75,25,75
+Northampton General Hospital NHS Trust,RNS,100,100,100,100,100,75,100,0,100,100,100,100,100,100,75,75,50,100
+Northern Devon Healthcare NHS Trust,RBZ,60,60,0,0,100,100,100,100,0,75,0,100,100,,75,50,25,100
+Northern Lincolnshire and Goole NHS Foundation Trust,RJL,40,80,100,60,100,75,100,100,100,50,100,100,100,80,75,100,50,100
+Northumbria Healthcare NHS Foundation Trust,RTF,20,100,100,20,75,0,75,50,20,0,75,100,100,20,75,50,25,50
+Nottingham University Hospitals NHS Trust,RX1,80,80,80,100,100,100,100,100,,75,75,100,100,100,100,100,25,75
+Oxford University Hospitals NHS Foundation Trust,RTH,40,100,100,40,100,100,100,75,80,100,100,100,100,80,100,100,100,75
+Papworth Hospital NHS Foundation Trust,RGM,80,100,100,20,100,75,100,100,100,75,75,100,100,100,75,50,50,75
+Pennine Acute Hospitals NHS Trust,RW6,80,100,100,100,100,100,100,0,100,100,100,100,100,100,100,100,100,100
+Plymouth Hospitals NHS Trust,RK9,80,100,100,20,75,75,75,75,100,75,75,100,100,20,50,100,25,50
+Poole Hospital NHS Foundation Trust,RD3,20,100,100,40,100,50,25,25,20,0,0,100,100,80,75,75,25,100
+Portsmouth Hospitals NHS Trust,RHU,20,80,20,20,50,75,50,25,20,25,25,100,100,100,75,25,25,50
+Princess Alexandra Hospital NHS Trust,RQW,80,80,80,20,75,100,100,25,100,100,75,100,100,100,100,100,50,100
+Queen Elizabeth Hospital Kings Lynn NHS Foundation Trust,RCX,20,0,60,0,,,,,100,,25,100,100,20,25,0,0,0
+Queen Victoria Hospital NHS Foundation Trust,RPC,0,20,0,0,0,25,25,25,100,0,25,80,100,,0,0,0,25
+Robert Jones and Agnes Hunt Orthopaedic Hospital NHS Foundation Trust,RL1,0,0,20,20,,,,,100,,0,100,100,100,100,75,0,75
+Rotherham NHS Foundation Trust,RFR,60,100,100,100,100,100,75,25,0,100,75,100,100,60,100,75,75,100
+Royal Berkshire NHS Foundation Trust,RHW,80,100,100,40,100,100,100,50,80,75,75,100,100,60,100,100,100,75
+Royal Bournemouth and Christchurch Hospitals NHS Foundation Trust,RDZ,20,0,0,0,,,,,20,,25,100,100,80,75,50,25,75
+Royal Brompton and Harefield NHS Foundation Trust,RT3,0,100,80,20,100,100,100,100,100,75,75,100,100,100,100,50,50,100
+Royal Cornwall Hospitals NHS Trust,REF,100,100,100,80,100,100,75,100,80,75,100,100,100,100,100,100,75,100
+Royal Devon and Exeter NHS Foundation Trust,RH8,20,60,80,20,75,25,75,25,0,0,75,100,100,20,25,25,0,75
+Royal Free London NHS Foundation Trust,RAL,40,100,100,100,100,75,75,50,0,75,100,100,100,80,75,100,75,75
+Royal Liverpool and Broadgreen University Hospitals NHS Trust,RQ6,100,100,100,100,100,100,100,50,80,100,100,100,100,100,100,100,100,100
+Royal Marsden NHS Foundation Trust,RPY,0,0,0,0,,,,,100,,0,100,100,100,25,75,0,75
+Royal National Orthopaedic Hospital NHS Trust,RAN,100,100,100,100,100,100,100,75,100,100,100,100,100,100,100,75,100,100
+Royal Orthopaedic Hospital NHS Foundation Trust,RRJ,0,0,0,0,,,,,0,,0,80,100,60,25,50,0,75
+Royal Surrey County Hospital NHS Foundation Trust,RA2,20,20,60,20,75,75,75,75,60,75,100,100,100,100,100,75,50,75
+Royal United Hospitals Bath NHS Foundation Trust,RD1,60,100,100,40,100,100,100,100,60,,100,100,100,40,100,100,75,100
+Royal Wolverhampton NHS Trust,RL4,100,100,100,100,100,100,100,75,100,75,50,100,100,100,100,100,75,100
+Salford Royal NHS Foundation Trust,RM3,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,50,100
+Salisbury NHS Foundation Trust,RNZ,80,100,100,20,100,100,100,100,40,100,75,100,100,40,75,100,75,75
+Sandwell and West Birmingham Hospitals NHS Trust,RXK,20,100,100,20,75,50,100,100,0,50,50,100,100,60,50,75,25,75
+Sheffield Childrens NHS Foundation Trust,RCU,40,0,0,0,,,,,0,,0,100,100,60,75,50,75,75
+Sheffield Teaching Hospitals NHS Foundation Trust,RHQ,40,100,100,40,100,75,75,100,20,75,100,100,100,60,100,100,50,100
+Sherwood Forest Hospitals NHS Foundation Trust,RK5,100,100,100,40,100,75,100,75,100,50,100,100,100,100,75,100,100,75
+Shrewsbury and Telford Hospital NHS Trust,RXW,40,100,40,0,100,75,100,50,0,25,50,100,100,0,75,75,0,75
+South Tees Hospitals NHS Foundation Trust,RTR,100,100,100,100,100,100,100,100,100,100,100,100,100,100,75,100,100,75
+South Tyneside NHS Foundation Trust,RE9,40,100,100,40,100,100,100,100,0,100,100,100,100,40,75,75,50,50
+South Warwickshire NHS Foundation Trust,RJC,20,20,20,20,75,75,50,100,0,75,75,100,100,60,25,50,75,75
+Southend University Hospital NHS Foundation Trust,RAJ,60,100,100,100,100,75,100,100,100,100,100,100,100,100,100,100,50,100
+Southport and Ormskirk Hospital NHS Trust,RVY,0,0,0,0,,,,,,,0,100,0,,75,75,25,50
+St Helens and Knowsley Hospitals NHS Trust,RBN,0,100,100,0,100,100,100,100,100,100,100,100,100,100,75,100,100,100
+Stockport NHS Foundation Trust,RWJ,100,100,100,100,100,75,100,75,0,75,75,100,100,100,100,75,75,100
+Surrey and Sussex Healthcare NHS Trust,RTP,40,100,100,80,100,100,100,100,100,100,75,100,100,100,100,100,100,75
+Tameside Hospital NHS Foundation Trust,RMP,100,100,100,20,100,100,100,100,100,100,100,100,100,20,100,100,75,100
+Taunton and Somerset NHS Foundation Trust,RBA,80,100,100,0,100,100,100,75,100,100,100,100,100,20,75,75,25,100
+Torbay and South Devon NHS Foundation Trust,R1G,100,100,0,0,100,100,100,100,40,0,100,100,100,80,75,75,50,100
+United Lincolnshire Hospitals NHS Trust,RWD,,80,20,,75,75,25,25,60,50,50,100,100,,50,75,50,75
+University College London Hospitals NHS Foundation Trust,RRV,20,80,100,20,75,50,100,100,0,50,50,100,100,100,100,75,50,75
+University Hospital Of South Manchester NHS Foundation Trust,RM2,80,100,100,100,100,100,100,75,,75,100,100,100,100,75,75,100,100
+University Hospital Southampton NHS Foundation Trust,RHM,80,100,100,100,100,100,100,100,20,75,75,100,100,100,100,100,100,100
+University Hospitals Birmingham NHS Foundation Trust,RRK,100,60,100,20,100,75,100,100,60,50,75,100,100,100,100,100,50,100
+University Hospitals Bristol NHS Foundation Trust,RA7,60,100,100,80,100,75,100,100,20,75,75,100,100,100,100,75,75,100
+University Hospitals Coventry and Warwickshire NHS Trust,RKB,60,100,100,80,100,50,25,25,100,50,75,100,100,80,100,50,75,75
+University Hospitals Of Leicester NHS Trust,RWE,80,100,100,80,100,100,100,100,20,75,75,100,100,80,100,100,100,100
+University Hospitals of Morecambe Bay NHS Foundation Trust,RTX,60,80,80,20,100,100,100,75,20,100,75,100,100,100,100,100,0,75
+University Hospitals of North Midlands NHS Trust,RJE,80,100,100,100,100,100,100,75,100,100,100,100,100,100,100,100,75,100
+Walsall Healthcare NHS Trust,RBK,80,100,100,80,100,100,100,100,100,75,75,100,100,100,100,100,75,75
+Walton Centre NHS Foundation Trust,RET,,0,100,0,,,,,80,,50,100,100,80,100,100,75,100
+Warrington and Halton Hospitals NHS Foundation Trust,RWW,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100
+West Hertfordshire Hospitals NHS Trust,RWG,20,20,60,0,75,75,25,75,,75,50,100,100,40,75,50,0,75
+West Suffolk NHS Foundation Trust,RGR,80,100,100,100,100,100,100,100,80,100,100,80,100,40,75,75,75,75
+Western Sussex Hospitals NHS Foundation Trust,RYR,20,40,0,0,100,100,100,,100,25,25,100,100,20,75,100,100,100
+Weston Area Health NHS Trust,RA3,60,100,100,0,75,75,75,0,100,50,100,100,100,0,100,100,100,100
+Whittington Health NHS Trust,RKE,80,100,100,100,100,100,100,100,0,75,75,100,100,100,75,100,75,75
+Wirral University Teaching Hospital NHS Foundation Trust,RBL,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100
+Worcestershire Acute Hospitals NHS Trust,RWP,20,100,100,20,75,100,100,,0,25,75,100,100,100,100,75,100,75
+"Wrightington, Wigan and Leigh NHS Foundation Trust",RRF,60,100,100,40,100,100,75,75,80,100,100,100,100,60,100,100,100,100
+Wye Valley NHS Trust,RLQ,80,0,0,0,,,,,100,,0,100,100,20,50,75,0,75
+Yeovil District Hospital NHS Foundation Trust,RA4,40,100,0,20,75,75,75,25,20,50,75,100,100,100,75,75,25,75
+York Teaching Hospital NHS Foundation Trust,RCB,80,100,80,80,100,100,100,100,0,75,100,100,100,100,100,100,100,100
